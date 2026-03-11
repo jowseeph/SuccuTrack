@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS succutrack;
-USE succulent_monitoring;
+USE succutrack;
 
 CREATE TABLE IF NOT EXISTS users (
   user_id INT AUTO_INCREMENT PRIMARY KEY,
